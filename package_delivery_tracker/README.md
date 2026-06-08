@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Package Delivery Tracker
 Group Members
 Yaksh Patel
@@ -23,6 +22,3 @@ Roles & Task Breakdown
 Yaksh: Git setup, server.ts
 Pritesh: Jira board, task management
 Arshit: README.md, API route design
-=======
-# Package_-Delivery_Tracker
->>>>>>> 54fcc1e8712937b00df7dd66e95354f020484442
