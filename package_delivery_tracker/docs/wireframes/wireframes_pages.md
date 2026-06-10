@@ -74,6 +74,6 @@ Click on Edit will take you to Edit/Update Page to change and save package detai
 The front-end wireframe focuses on the essential features of the Delivery Package Tracker, with a clean, intuitive and user-friendly interface to ensure a seamless customer experience. Every page has its own intended use, and creates a logical flow so that users can carry out package deliveries efficiently. The frontend design closely matches the backend routes and database structure, facilitating seamless data management and integration.
 
 ![alt text](<Home Page.drawio.png>)
-![alt text](image.png)
+![alt text](<Data Entry Page.drawio.png>)
 ![alt text](<Data Listing Page.drawio.png>)
 ![alt text](<Update Package.drawio.png>)
